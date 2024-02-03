@@ -1,6 +1,6 @@
 def contar_palabras(texto):
     contador = 0
-    abecedario = "abcdefghijklmnñopqrstuvwxyz"
+    abecedario = "abcdefghijklmnñopqrstuvwxyz0123456789`~!@#$%^&*()-_=+*[]{};:,./\<>?|" # ***Solucionar el problema aca.***
     palabra = ""
 
     for caracter in texto:

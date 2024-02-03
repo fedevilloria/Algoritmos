@@ -1,0 +1,5 @@
+Palabras totales: 10
+Palabras comenzadas en consonante: 7
+Palabras palindromas: 0
+Palabra mas larga: Astronauta
+Palabra mas corta: Quasar

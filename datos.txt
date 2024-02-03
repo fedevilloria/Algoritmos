@@ -1,0 +1,4 @@
+coca cola, bebida, 0
+spirte, bebida, 0
+whisky, bebida alcoholica, 70
+ron, bebida alcoholica, 50
